@@ -5,4 +5,4 @@ This website is made by the Main music producer / main leader of 'The "Flight" E
 - Setting up the main page
 - doing something else idk
 
-## README.md will be imprived later
+## README.md will be improved later
